@@ -1,7 +1,4 @@
 let speech = new SpeechSynthesisUtterance();
-
-console.log(speech);
-
 let voices = [];
 
 let voiceSelect = document.querySelector("select");
